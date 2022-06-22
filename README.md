@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dev2008
-- 👀 I’m interested in family, faith and football (lots of sport actually but wanted alliteration!)
+- 👀 I’m interested in family, faith, fun (mainly Civ IV) and football (lots of sport actually but wanted alliteration!)
 - 🌱 I’m currently learning PDO ugh.
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 💞️ I’m looking to collaborate on some work for Civ Fanatics at the moment.
 - 📫 How to reach me:- email me at dev2008@gameplan.org.uk
 
 <!---
